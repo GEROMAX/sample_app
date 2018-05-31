@@ -1,0 +1,5 @@
+#rubocopのlint設定ファイル
+
+#フォーマットなし文字列をダブルクォートにする
+StringLiterals:
+  EnforcedStyle: double_quotes
