@@ -16,6 +16,7 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
+debug.log
 
 /node_modules
 /yarn-error.log
@@ -24,3 +25,5 @@
 
 # Ignore Spring files.
 /spring/*.pid
+
+/public/assets
